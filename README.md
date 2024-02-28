@@ -1,1 +1,2 @@
 # Robot-Simulation
+The is an implementation of a 3D mechanical model using OpenGL. It represents a robot with articulated joints and body parts, allowing interactive manipulation through keyboard inputs. The code utilizes OpenGL functions for lighting, material properties, and geometry rendering. Users can control the robot's movements and observe changes in its posture by adjusting joint angles. The implementation serves as a demonstration of basic graphics and interaction concepts within the OpenGL framework.
